@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87ba5fc8.css",
+    "main.js": "/static/js/main.549ffbdb.js",
+    "static/js/453.80efc53e.chunk.js": "/static/js/453.80efc53e.chunk.js",
+    "static/media/weatherbanner001.jpg": "/static/media/weatherbanner001.7cb771742f0f15381a5f.jpg",
+    "static/media/icon.png": "/static/media/icon.5c565d9e564bbd582630.png",
+    "static/media/precipitation_new.jpg": "/static/media/precipitation_new.111c4ccf1526389ed259.jpg",
+    "static/media/wind_new.jpg": "/static/media/wind_new.6c1cd416f7651b3251d0.jpg",
+    "static/media/clouds_new.jpg": "/static/media/clouds_new.381ab1bad876a5e39a90.jpg",
+    "static/media/temperature_new.jpg": "/static/media/temperature_new.4c9031263b70d3020fab.jpg",
+    "static/media/pressure_new.jpg": "/static/media/pressure_new.d81d187c19c1c550449f.jpg",
+    "static/media/windicon.png": "/static/media/windicon.e220e1527acdc80fdebb.png",
+    "static/media/subscripe001.jpg": "/static/media/subscripe001.72827fb0acc272c08eb6.jpg",
+    "static/media/pressure1.jpg": "/static/media/pressure1.70118b563a859dacbbc9.jpg",
+    "static/media/weather3.jpg": "/static/media/weather3.e32827719814b4291c5e.jpg",
+    "index.html": "/index.html",
+    "main.87ba5fc8.css.map": "/static/css/main.87ba5fc8.css.map",
+    "main.549ffbdb.js.map": "/static/js/main.549ffbdb.js.map",
+    "453.80efc53e.chunk.js.map": "/static/js/453.80efc53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ba5fc8.css",
+    "static/js/main.549ffbdb.js"
+  ]
+}
